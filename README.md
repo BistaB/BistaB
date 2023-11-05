@@ -1,5 +1,5 @@
 ![MasterHead](https://www.nist.gov/sites/default/files/images/2019/04/02/nistcyber_banner-11.19.18-am.png)
-<h1 align="center">Hi 👋, I'm Bhuwan Bista</h1>
+<h1 align="center">Hi there, I'm Bhuwan Bista</h1>
 <h3 align="center">An enthusiastic undergraduate dedicated to the field of Cybersecurity.</h3>
 
 
